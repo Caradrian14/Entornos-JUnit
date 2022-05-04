@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7104a3b3-7770-477c-b3ba-6d8b728a26d9" name="Changes" comment="" />
+    <list default="true" id="7104a3b3-7770-477c-b3ba-6d8b728a26d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/daw/proves/MyCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/daw/proves/MyCalculadoraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ProvaCicledeVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ProvaCicledeVida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/ProvaCcicleVidaActivitats.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +20,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28LgJOHol4lwqMRLXt2nHQUNyTK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,86 +40,95 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="ProvaCicleVidaActivitats.testEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="daw.proves" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyCalculadoraTest">
+    <configuration name="MyCalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticaJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="daw.proves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ProvaCicleVidaActivitats" />
-      <option name="METHOD_NAME" value="testEight" />
+      <option name="PACKAGE_NAME" value="daw.proves" />
+      <option name="MAIN_CLASS_NAME" value="daw.proves.MyCalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCalculadoraTest.dicedByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticaJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="daw.proves.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="daw.proves" />
+      <option name="MAIN_CLASS_NAME" value="daw.proves.MyCalculadoraTest" />
+      <option name="METHOD_NAME" value="dicedByZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProvaCicleVidaActivitats.testEleven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCalculadoraTest.dicedByZero2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticaJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="daw.proves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ProvaCicleVidaActivitats" />
-      <option name="METHOD_NAME" value="testEleven" />
+      <option name="PACKAGE_NAME" value="daw.proves" />
+      <option name="MAIN_CLASS_NAME" value="daw.proves.MyCalculadoraTest" />
+      <option name="METHOD_NAME" value="dicedByZero2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProvaCicleVidaActivitats.testNine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCalculadoraTest.divided" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticaJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="daw.proves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ProvaCicleVidaActivitats" />
-      <option name="METHOD_NAME" value="testNine" />
+      <option name="PACKAGE_NAME" value="daw.proves" />
+      <option name="MAIN_CLASS_NAME" value="daw.proves.MyCalculadoraTest" />
+      <option name="METHOD_NAME" value="divided" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProvaCicleVidaActivitats.testSeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCalculadoraTest.sub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticaJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="daw.proves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ProvaCicleVidaActivitats" />
-      <option name="METHOD_NAME" value="testSeven" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProvaCicleVidaActivitats.testTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PracticaJUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ProvaCicleVidaActivitats" />
-      <option name="METHOD_NAME" value="testTen" />
+      <option name="PACKAGE_NAME" value="daw.proves" />
+      <option name="MAIN_CLASS_NAME" value="daw.proves.MyCalculadoraTest" />
+      <option name="METHOD_NAME" value="sub" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProvaCicleVidaActivitats.testEleven" />
-        <item itemvalue="JUnit.ProvaCicleVidaActivitats.testTen" />
-        <item itemvalue="JUnit.ProvaCicleVidaActivitats.testNine" />
-        <item itemvalue="JUnit.ProvaCicleVidaActivitats.testEight" />
-        <item itemvalue="JUnit.ProvaCicleVidaActivitats.testSeven" />
+        <item itemvalue="JUnit.MyCalculadoraTest" />
+        <item itemvalue="JUnit.MyCalculadoraTest.sub" />
+        <item itemvalue="JUnit.MyCalculadoraTest.dicedByZero2" />
+        <item itemvalue="JUnit.MyCalculadoraTest.divided" />
+        <item itemvalue="JUnit.MyCalculadoraTest.dicedByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -137,11 +157,30 @@
       <workItem from="1651159308470" duration="3000" />
       <workItem from="1651162178586" duration="600000" />
       <workItem from="1651242986259" duration="1189000" />
-      <workItem from="1651394728871" duration="5088000" />
+      <workItem from="1651394728871" duration="5890000" />
+      <workItem from="1651485715776" duration="625000" />
+      <workItem from="1651602273082" duration="3873000" />
+      <workItem from="1651680487999" duration="4594000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PracticaJUnit$MyCalculadoraTest.ic" NAME="MyCalculadoraTest Coverage Results" MODIFIED="1651684668403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>daw.proves.*</FILTER>
+    </SUITE>
   </component>
 </project>
